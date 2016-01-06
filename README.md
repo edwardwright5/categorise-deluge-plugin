@@ -1,0 +1,1 @@
+categorise-deluge-plugin
